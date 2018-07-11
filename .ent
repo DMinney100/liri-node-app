@@ -1,0 +1,12 @@
+# Spotify API keys
+
+SPOTIFY_ID=your-spotify-id
+SPOTIFY_SECRET=your-spotify-secret
+
+# Twitter API keys
+
+
+vg1NmnfoCnEbsnjpi9c094gF2=your-twitter-consumer-key
+ca2hTAMZuRL2EejepADKWCeOfDuI6VvlDPmurMmVV8dMWaSkRo=your-twitter-consumer-secret
+315028484-RfVCcSsxRwOIP6Mzb5J42anFirSPxh2tS438GSAv=your-access-token-key
+b2mESgKhsCFYY6FiYRNW39H6rozvPzKpVztguJyk9AsBR=your-twitter-access-token-secret
